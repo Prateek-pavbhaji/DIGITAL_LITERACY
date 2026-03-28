@@ -32,7 +32,8 @@ The project is divided into five modules, each addressing a key area of digital 
   **LinkedIn:** To act as a digital resume and professional network for securing internships.
   **Stack Overflow:** To find solutions to complex coding problems and demonstrate technical problem-solving.
  **Plan to use these platforms for:** Maintaining a consistent "green streak" on GitHub and following tech leaders on LinkedIn to secure future opportunities.
-  GITHUB :   
+
+  GITHUB :   https://github.com/Prateek-pavbhaji
 
 ### 💻 Task 3: Coding & Collaboration Platforms
    DIGITAL AWARENESS QUIZ LINK: https://docs.google.com/forms/d/e/1FAIpQLSe3DGirXZu-8QYi5p1_du1TSqAK47LDqk6HfmNCyDyyLYd80w/viewform?usp=publish-editor
