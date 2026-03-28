@@ -2,7 +2,7 @@
 **Course:** CSE0001 – Digital Literacy
 
 ## Student Details
-**Name:** Prateek Kumar
+**Name:** Prateek Kumar 
 **Registration Number:** 25BCE10899 
 **CSE CORE 1st year (2nd Semester)**
 
